@@ -17,7 +17,6 @@
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/ff67be13-3d9a-446a-b3ef-a81051c90839" width="50 height="50">
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/3c289480-df9a-49b3-9f8e-db15d8a0d574" width="50 height="50">
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/11709724-60c4-4ca9-9e1d-a153f1e50f1f" width="80 height="80">
-<img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/ed9d30b6-9a61-415e-9870-7cf2664e9fa6" width="100 height="70">
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/6ddd323a-3ff8-45f5-855c-7ff5ea80593e" width="80 height="50">
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/b02e587c-57d1-4b44-9011-0f28ad44b436" width="50 height="50">
 <img src="https://github.com/ahmad-amin-farooq/ahmad-amin-farooq/assets/111268881/4f63162a-e14b-4a43-8149-e529cc54800a" width="80 height="50">
